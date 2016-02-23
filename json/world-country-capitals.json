@@ -1590,8 +1590,8 @@
 }, {
 	"CountryName": "United States",
 	"CapitalName": "Washington",
-	"CapitalLatitude": "-77.000000",
-	"CapitalLongitude": "38.883333",
+	"CapitalLatitude": "38.883333",
+	"CapitalLongitude": "-77.000000",
 	"CountryCode": "US",
 	"ContinentName": "North America"
 }, {
